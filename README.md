@@ -28,7 +28,7 @@ the meaning of the steps that script takes.
 
 ## Authors
 
-* **KarlesP** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **KarlesP** - *Initial work* - [KarlesP](https://github.com/KarlesP)
 
 ## License
 
