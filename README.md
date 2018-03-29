@@ -28,7 +28,7 @@ the meaning of the steps that script takes.
 
 ## Authors
 
-* **Mr Koios** - *Initial work* - [KarlesP](https://github.com/KarlesP)
+* **KarlesP** - *Initial work* - [KarlesP](https://github.com/KarlesP)
 
 ## License
 
