@@ -115,7 +115,7 @@ ax.set_xticklabels(names)
 plt.show()
 
 while True:
-   quest=eval(input("What is the best classifier? "))
+   quest=eval(input("Which is the best classifier? "))
    if quest not in models_dict:
     print("Model not found.")
    else:
